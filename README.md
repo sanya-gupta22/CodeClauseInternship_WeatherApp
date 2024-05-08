@@ -1,4 +1,4 @@
-# Weather-App-Java
+# Weather-App-Java. This Weather App is a console based application which shows weather,wind Speed and Pressure.
 
 If the user press 1, Then date will print the temp of the input date.
 If the user press 2,  Then date will print the wind.speed of the input date.
